@@ -7,7 +7,7 @@ lastFire = timer()
 firet = timer()
 fireCooldpwn = 0.2
 
-
+#TODO: change name to @shuter_game.py@
 
 mixer.init() 
 mixer.music.load('space.ogg') 
