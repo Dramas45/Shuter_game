@@ -1,2 +1,3 @@
 # Shuter_game
 Many money. Need please! Russian pro student....
+Write me on : RussianStudentDoyki@ggmail.ryc
